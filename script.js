@@ -65,11 +65,11 @@ recognition.addEventListener("result", (e) => {
       window.open('https://discord.com/channels/@mes')
     }
     
-    if (text.includes("Send a mail")) {
-      window.open('https://discord.com/channels/@mes')
+    if (text.includes("I want to send a mail")) {
+      window.open('https://mail.google.com/mail/u/4/#inbox?compose=new')
     }
     
-    if (text.includes("open mailbox")) {
+    if (text.includes("Open mailbox")) {
       window.open("https://mail.google.com/mail/u/4/#inbox");
     }
 

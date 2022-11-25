@@ -60,9 +60,17 @@ recognition.addEventListener("result", (e) => {
     if (text.includes("open YouTube")) {
       window.open('https://youtube.com')
     }
-
+    
     if (text.includes("discord")) {
       window.open('https://discord.com/channels/@mes')
+    }
+    
+    if (text.includes("Send a mail")) {
+      window.open('https://discord.com/channels/@mes')
+    }
+    
+    if (text.includes("open mailbox")) {
+      window.open("https://mail.google.com/mail/u/4/#inbox");
     }
 
     // Random joke function

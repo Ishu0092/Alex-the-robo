@@ -14,6 +14,10 @@ Alex Robo can recognize the various commands such as jokes, thoughts, opening yo
 ## How we built it
 I used HTML, CSS, and JavaScript. Images and gifs with transform effects with the help of CSS. And Used javascript to fetch different APIs such as dictionary, jokes, and thoughts.
 
+## Screenshots
+
+![Screenshot (79)](https://user-images.githubusercontent.com/115711433/203948235-ac3461d5-7177-4745-bc68-3d551fa6d6b9.png)
+
 
 ## What we learned
 Fetch APIs and display the output in a proficient manner. Learned deep knowledge of Vanilla javascript functions and some transform animations in CSS.

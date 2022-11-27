@@ -70,7 +70,7 @@ recognition.addEventListener("result", (e) => {
     }
     
     if (text.includes("Open mailbox")) {
-      window.open("https://mail.google.com/mail/u/4/#inbox");
+      window.open("https://mail.google.com/mail/u/2/#inbox");
     }
 
     // Random joke function
